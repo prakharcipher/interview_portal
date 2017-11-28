@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "ques": "Find the largest number.",
+      "options": {
+        "val1": "3",
+        "val2": "7",
+        "val3": "10",
+        "val4": "20"
+      }
+    },
+    {
+      "id": "2",
+      "ques": "Find the smallest number.",
+      "options": {
+        "val1": "3",
+        "val2": "7",
+        "val3": "10",
+        "val4": "20"
+      }
+    },
+    {
+      "id": "3",
+      "ques": "Find the negative number.",
+      "options": {
+        "val1": "3",
+        "val2": "-7",
+        "val3": "10",
+        "val4": "20"
+      }
+    },
+    {
+      "id": "4",
+      "ques": "Find the positive number.",
+      "options": {
+        "val1": "-3",
+        "val2": "-7",
+        "val3": "10",
+        "val4": "-20"
+      }
+    },
+    {
+      "id": "5",
+      "ques": "Find the smallest alphabet.",
+      "options": {
+        "val1": "box",
+        "val2": "hero",
+        "val3": "as",
+        "val4": "namespace"
+      }
+    },
+    {
+      "id": "6",
+      "ques": "Find the largest alphabet.",
+      "options": {
+        "val1": "box",
+        "val2": "hero",
+        "val3": "as",
+        "val4": "namespace"
+      }
+    },
+    {
+      "id": "7",
+      "ques": "Find the prime number.",
+      "options": {
+        "val1": "4",
+        "val2": "10",
+        "val3": "3",
+        "val4": "16"
+      }
+    },
+    {
+      "id": "8",
+      "ques": "Find the non-prime number.",
+      "options": {
+        "val1": "4",
+        "val2": "2",
+        "val3": "3",
+        "val4": "17"
+      }
+    },
+    {
+      "id": "9",
+      "ques": "What is the capital of India.",
+      "options": {
+        "val1": "Noida",
+        "val2": "Pune",
+        "val3": "Delhi",
+        "val4": "Mumbai"
+      }
+    },
+    {
+      "id": "10",
+      "ques": "Which one of the following ins an OS.",
+      "options": {
+        "val1": "Atom",
+        "val2": "MsOffice",
+        "val3": "Photoshop",
+        "val4": "Android"
+      }
+    },
+    {
+      "id": "11",
+      "ques": "Which one of the following is an OOP language.",
+      "options": {
+        "val1": "C",
+        "val2": "Ruby on Rails",
+        "val3": "Java",
+        "val4": "HTML"
+      }
+    },
+    {
+      "id": "12",
+      "ques": "Who is the Prime Minister of India.",
+      "options": {
+        "val1": "Manmohan Singh",
+        "val2": "Rahul Gandhi",
+        "val3": "Sonia Gandhi",
+        "val4": "Narendra Modi"
+      }
+    },
+    {
+      "id": "13",
+      "ques": "Which of the following is the name of a car.",
+      "options": {
+        "val1": "Kawasaki Ninja",
+        "val2": "R15",
+        "val3": "Bajaj Avenger",
+        "val4": "Honda City"
+      }
+    },
+    {
+      "id": "14",
+      "ques": "Which of the following is a human body organ.",
+      "options": {
+        "val1": "box",
+        "val2": "car",
+        "val3": "ear",
+        "val4": "dog"
+      }
+    },
+    {
+      "id": "15",
+      "ques": "Which of the following number lies above 20.",
+      "options": {
+        "val1": "4",
+        "val2": "10",
+        "val3": "30",
+        "val4": "16"
+      }
+    },
+    {
+      "id": "16",
+      "ques": "Which of the following number lies below 20.",
+      "options": {
+        "val1": "4",
+        "val2": "30",
+        "val3": "35",
+        "val4": "160"
+      }
+    },
+    {
+      "id": "17",
+      "ques": "Which of the following is a mammal.",
+      "options": {
+        "val1": "Lizard",
+        "val2": "Snake",
+        "val3": "Cockroach",
+        "val4": "Dog"
+      }
+    },
+    {
+      "id": "18",
+      "ques": "How many months are there in a year.",
+      "options": {
+        "val1": "4",
+        "val2": "10",
+        "val3": "12",
+        "val4": "16"
+      }
+    },
+    {
+      "id": "19",
+      "ques": "Which month lies between March and May.",
+      "options": {
+        "val1": "January",
+        "val2": "April",
+        "val3": "December",
+        "val4": "November"
+      }
+    },
+    {
+      "id": "20",
+      "ques": "Which of the following is the 31 days month.",
+      "options": {
+        "val1": "January",
+        "val2": "February",
+        "val3": "April",
+        "val4": "June"
+      }
+    }
+  ]
+}
